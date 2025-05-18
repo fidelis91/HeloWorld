@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A822-1DFC
+
+ Directory of C:\Users\User\Desktop\JavaProject
+
+05/18/2025  02:07 PM    <DIR>          .
+05/18/2025  02:07 PM    <DIR>          ..
+05/18/2025  01:19 PM               899 hello.class
+05/16/2025  11:11 AM               162 hello.java
+05/18/2025  02:07 PM                 0 readme.txt
+               3 File(s)          1,061 bytes
+               2 Dir(s)  399,187,263,488 bytes free
